@@ -6,6 +6,7 @@ You can also add [links](http://google.com)
   
 You can add some code:  
 ` print("Hello World)`  
+print ("HELLOWORLD")
 
 You can write a list:
 - Bread
